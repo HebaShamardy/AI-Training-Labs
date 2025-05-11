@@ -1,0 +1,8 @@
+MONGODB_URI=<mongo_connection_string>
+MONGODB_DATABASE_NAME=<database_name>
+SEARCH_API_URL="https://www.searchapi.io/api/v1/search"
+API_KEY=<search_api_key>
+DISCOVERY_APIKEY=<watson_discovery_api_key>
+DISCOVERY_URL=<watson_discovery_url>
+DISCOVERY_PROJECT_ID=<watson_discovery_project_id>
+DISCOVERY_COLLECTION_ID=<watson_discovery_collection_id>

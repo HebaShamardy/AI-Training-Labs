@@ -1,0 +1,16 @@
+MONGODB_URI=<mongo_connection_string>
+MONGODB_DATABASE_NAME=<database_name>
+SEARCH_API_URL="https://www.searchapi.io/api/v1/search"
+API_KEY=<search_api_key>
+DISCOVERY_APIKEY=<watson_discovery_api_key>
+DISCOVERY_URL=<watson_discovery_url>
+DISCOVERY_PROJECT_ID=<watson_discovery_project_id>
+DISCOVERY_COLLECTION_ID=<watson_discovery_collection_id>
+
+Elastic_URL=<elastic_sere_url>
+Elastic_APIKEY=<elastic_api_key>
+WATSON_STT_API_KEY=<watson_stt_api_key>
+WATSON_STT_URL=<watson_stt_url>
+WATSON_TTS_API_KEY=<watson_tts_api_key>
+WATSON_TTS_URL=<watson_tts_url>
+GOOGLE_APPLICATION_CREDENTIALS=<credential_path_on_server_or_local>

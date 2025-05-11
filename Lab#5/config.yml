@@ -1,0 +1,15 @@
+stt:
+  english:
+    provider: watson
+    watson:
+      url: ${WATSON_STT_URL}
+      api_key: ${WATSON_STT_API_KEY}
+  arabic:
+    provider: google
+    google:
+      credentials_json: ${GOOGLE_APPLICATION_CREDENTIALS}
+
+tts:
+  watson:
+    url: ${WATSON_TTS_URL}
+    api_key: ${WATSON_TTS_API_KEY}

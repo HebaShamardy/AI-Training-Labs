@@ -1,0 +1,5 @@
+elastic_key.json
+output*.*
+credentials/*
+audio_files/*
+audio_uploads/*
